@@ -19,6 +19,6 @@ print(groceries)
 for grocery in groceries:
 	print(grocery)
 
-
+print('Leo estuvo aquí')
 
 
