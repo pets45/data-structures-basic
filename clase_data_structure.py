@@ -16,6 +16,9 @@ for count in range(MAX_GROS):
 print('\nTu mandado quedo: ')
 print(groceries)
 
+for grocery in groceries:
+	print(grocery)
+
 
 
 
